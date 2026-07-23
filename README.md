@@ -27,7 +27,8 @@ You can try the application directly without any installation via the following 
 
 👉 https://advancelinearalgebra.streamlit.app/
 
-👨‍💻 Creator
+## Creator
+
 Developed by 
 1. Amanda Sugito
 2. Leora Natania Klarise Purba
