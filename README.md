@@ -34,3 +34,5 @@ Developed by
 2. Leora Natania Klarise Purba
 3. Vanessa Santoso
 4. Zahra Annisa Afandi
+5. Issa
+6. Sanly
